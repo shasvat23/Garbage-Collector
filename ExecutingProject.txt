@@ -1,0 +1,5 @@
+Command to compile 
+g++ -std=c++17 main.cpp
+
+Command to run 
+./a.out
